@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "唐健"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "wushuang1201/yuanbo-gmail.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -26,11 +26,11 @@ author:
   bio              : "华中科技大学"
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "tangj@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
